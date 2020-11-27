@@ -1,8 +1,8 @@
-package com.spring.dao;
+package com.spring.prueba.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.spring.model.Usuario;
+import com.spring.prueba.model.Usuario;
 
 /**
  * Repositorio que soportara todas las querys realizadas

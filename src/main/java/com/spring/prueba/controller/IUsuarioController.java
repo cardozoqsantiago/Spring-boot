@@ -1,4 +1,4 @@
-package com.spring.controller;
+package com.spring.prueba.controller;
 
 /**
  * Interface para el controlador UsuarioController
